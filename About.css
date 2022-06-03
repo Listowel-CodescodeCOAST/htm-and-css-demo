@@ -1,0 +1,131 @@
+.header{
+    width: 100%;
+    height: 120vh;
+}
+
+.card{
+    height: 300vh;
+    width: 100%;
+}
+.card_one{
+    height: 100vh;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-left: 14rem;
+    padding-top: 11rem;
+     background-image: url("../html/images/hdimg6.jpg");
+}
+.card_one > p{
+    padding-left: 15rem;
+    font-size: large;
+    font-weight: 600;
+}
+.two{
+    height: 58vh;
+    color: black;
+    width: 65vw;
+    margin-top: 16rem;
+    text-align: center;
+    background-color: white;
+    border: 2px solid silver;
+}
+.two > form{
+    margin-top: 1rem;
+}
+.two > form > input{
+    height: 2rem;
+    width: 12rem;
+    margin-left: 1rem;
+    background: none;
+    border: 1px solid silver;
+}
+.two > form > textarea {
+    margin-top: 8px;
+    margin-left: 1rem;
+    border: 1px solid silver;
+}
+.two > form > .submit{
+    width: 38rem;
+    height: 2.5rem;
+    color: white;
+    font-weight: 900;
+    margin-top: 1rem;
+    background-color: rgb(115, 255, 0);
+}
+.card_two {
+        height: 55vh;
+    width: 100%;
+}
+.card_three{
+    height: 70vh;
+    width: 80%;
+    display: flex;
+}
+.three_one{
+    width: 45vw;
+    height: 70vh;
+    background-image: url("../html/images/contact.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+.three_two{
+    width: 35vw;
+    height: 70vh;
+    padding-top: 2rem;
+    background-color: rgb(210, 223, 154);
+    padding-left: 5rem;
+}
+.three_two > button{
+    width: 12rem;
+    height: 2rem;
+    border: none;
+    color: white;
+    border-radius: 1px;
+    font-weight: 550;
+    background-color: rgb(115, 255, 0);
+}
+.three_two > p{
+    font-weight: 550;
+}
+.card_four{
+    width: 80%;
+    height: 72.5vh;
+    margin-left: 17rem;
+    display: flex;
+    margin-top: 2rem;
+}
+.four_one{
+     width: 45vw;
+    height: 72.5vh;
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+}
+.four_one{
+     width: 35vw;
+    height: 70vh;
+    padding-top: 2rem;
+    background-color: rgb(210, 223, 154);
+    padding-left: 5rem;
+
+}
+.four_one > button{
+    width: 12rem;
+    height: 2rem;
+    border: none;
+    color: white;
+    border-radius: 1px;
+    font-weight: 550;
+    background-color: rgb(115, 255, 0);
+}
+.four_one > p{
+    font-weight: 550;
+}
+.four_two{
+    width: 45vw;
+    height: 70vh;
+    background-image: url("../../public/images/contact.jpeg");
+    background-position: center;
+    background-size: cover;
+}
